@@ -1,9 +1,6 @@
 # Introduction to data science syllabus
 
 ## Lectures
-
-There are six lectures in this component of the class.
-
 0. Introduction to data science for BME
     a. Git and github, version control
     b. Exploratory data analysis
