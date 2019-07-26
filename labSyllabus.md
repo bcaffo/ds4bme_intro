@@ -32,6 +32,7 @@
 6. Lab on running deep networks in python
     1. Project: convoluational neural network for lesion segmentation.
 7. Lab on running deep networks and evaluation
-    1. Project: evaluation of a NN algorithm.
+    1. Project: evaluation of a NN algorithm for "Early Prediction of the Impending Onset of Septic Shock in Patients with Sepsis."
+    
 
 
