@@ -2,48 +2,48 @@
 
 ## Lectures
 0. Introduction to data science for BME
-    a. Git and github, version control
-    b. Exploratory data analysis
-    c. Importance of data science in BME. Description of working case studies: computational neuroanatomy and medicine
-    d. Reproducible research, replication crisis
-    e. Computational topics: python and frameworks.
-    f. Example: reading in some MRI Cloud data
-    g. Grading and course structure; github classroom.    
+    1. Git and github, version control
+    2. Exploratory data analysis
+    3. Importance of data science in BME. Description of working case studies: computational neuroanatomy and medicine
+    4. Reproducible research, replication crisis
+    5. Computational topics: python and frameworks.
+    6. Example: reading in some MRI Cloud data
+    7. Grading and course structure; github classroom.    
 1. Introduction to classification and prediction
-    a. Classification with one continuous predictor and thresholding
-    b. Simple regression prediction through the origin
-    c. Loss functions, squared error, cross entropy
-    d. Example with MRI cloud data : predicting Age from the HCP data and total brain volume
-    e. Computational topics, loading a simple dataset into a python notebook and creating a simple prediction algorithm
+    1. Classification with one continuous predictor and thresholding
+    2. Simple regression prediction through the origin
+    3. Loss functions, squared error, cross entropy
+    4. Example with MRI cloud data : predicting Age from the HCP data and total brain volume
+    5. Computational topics, loading a simple dataset into a python notebook and creating a simple prediction algorithm
 2. Linear separable models
-    a. Least squares prediction in a linear model
-    b. Binary least squares prediction with cross entropy error.
-    c. Example with MRI cloud data : predicting siamese networks with linear models
-    d. Computational topics, building a linear model in python
+    1. Least squares prediction in a linear model
+    2. Binary least squares prediction with cross entropy error.
+    3. Example with MRI cloud data : predicting siamese networks with linear models
+    4. Computational topics, building a linear model in python
 3. Simple neural networks
-    a. Correspondence between network diagrams and loss functions
-    b. Example: fitting XOR with a neural network
-    c. Example: linear regression as a one layer
-    d. Example: binary logistic regression as a one layer NN
-    e. Example with MRI cloud data : siamese network prediction from the HCP data
-    f. Computational topics: installing pytorch (or TF?), pip or conda, ...
+    1. Correspondence between network diagrams and loss functions
+    2. Example: fitting XOR with a neural network
+    3. Example: linear regression as a one layer
+    4. Example: binary logistic regression as a one layer NN
+    5. Example with MRI cloud data : siamese network prediction from the HCP data
+    6. Computational topics: installing pytorch (or TF?), pip or conda, ...
 4. Deep neural networks
-    a. Fitting and back propagation
-    b. Dropout and regularization; bagging
-    c. Modern computational issues, GPU computing
-    d. Frameworks (TF, pytorch, ...)
-    e. Example: handwritten digit classification
-    f. Example: siamese network prediction using a deep neural network.
+    1. Fitting and back propagation
+    2. Dropout and regularization; bagging
+    3. Modern computational issues, GPU computing
+    4. Frameworks (TF, pytorch, ...)
+    5. Example: handwritten digit classification
+    6. Example: siamese network prediction using a deep neural network.
 5. Special networks
-    a. Convoluational NNs.
-    b. Recurrent NNs.
-    c. Autoencoders.
-    d. Example: cats versus dogs
-    e. Example: hand written digits
-    f. Example: activity classification ?
+    1. Convoluational NNs.
+    2. Recurrent NNs.
+    3. Autoencoders.
+    4. Example: cats versus dogs
+    5. Example: hand written digits
+    6. Example: activity classification ?
 6. Evaluation
-    a. Overfitting
-    b. Evaluation metrics
-    c. Generalizability
-    d. Missing data
+    1. Overfitting
+    2. Evaluation metrics
+    3. Generalizability
+    4. Missing data
   
