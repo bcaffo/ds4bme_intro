@@ -1,4 +1,4 @@
-"index","rawid","roi","volume","min","max","mean","std","type","level"
+"","rawid","roi","volume","min","max","mean","std","type","level"
 "1","kirby127a_3_1_ax.img","Telencephalon_L",531111,0,374,128.3013,51.8593,1,1
 "2","kirby127a_3_1_ax.img","Telencephalon_R",543404,0,300,135.0683,53.6471,1,1
 "3","kirby127a_3_1_ax.img","Diencephalon_L",9683,15,295,193.5488,32.2733,1,1
