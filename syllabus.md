@@ -1,6 +1,20 @@
 # Introduction to data science syllabus
 
-## Lectures
+
+## ipython notebooks
+
+[all lectures](https://github.com/bcaffo/ds4bme_intro/tree/master/lectures)
+
+* [Lecture 1, some basic python and data input and munging](https://github.com/bcaffo/ds4bme_intro/blob/master/lectures/lecture1.ipynb)
+* [Lecture 2, simple classification and evaluation](https://github.com/bcaffo/ds4bme_intro/blob/master/lectures/lecture2.ipynb)
+* [Lecture 3, regression classification]()
+
+
+
+
+
+
+## Topics and rough organization of lectures
 0. Introduction to data science for BME
     1. Git and github, version control
     2. Exploratory data analysis
