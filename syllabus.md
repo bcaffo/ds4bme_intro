@@ -3,11 +3,11 @@
 
 ## ipython notebooks
 
-[all lectures](https://github.com/bcaffo/ds4bme_intro/tree/master/lectures)
+[all notebooks](https://github.com/bcaffo/ds4bme_intro/tree/master/lectures)
 
-* [Lecture 1, some basic python and data input and munging](https://github.com/bcaffo/ds4bme_intro/blob/master/lectures/lecture1.ipynb)
-* [Lecture 2, simple classification and evaluation](https://github.com/bcaffo/ds4bme_intro/blob/master/lectures/lecture2.ipynb)
-* [Lecture 3, regression classification]()
+* [Notebook 1, some basic python and data input and munging](https://github.com/bcaffo/ds4bme_intro/blob/master/lectures/lecture1.ipynb)
+* [Notebook 2, simple classification and evaluation](https://github.com/bcaffo/ds4bme_intro/blob/master/lectures/lecture2.ipynb)
+* [Notebook 3, regression classification]()
 
 
 
