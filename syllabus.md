@@ -8,7 +8,7 @@
 * [Notebook 1, some basic python and data input and munging](https://github.com/bcaffo/ds4bme_intro/blob/master/lectures/lecture1.ipynb)
 * [Notebook 2, simple classification and evaluation](https://github.com/bcaffo/ds4bme_intro/blob/master/lectures/lecture2.ipynb)
 * [Notebook 3, regression prediction](https://github.com/bcaffo/ds4bme_intro/blob/master/notebooks/notebook3.ipynb)
-* [Notebook 4, regression classification]()
+* [Notebook 4, regression classification](https://github.com/bcaffo/ds4bme_intro/blob/master/notebooks/notebook4.ipynb)
 
 
 
