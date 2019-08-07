@@ -1,7 +1,7 @@
 # Introduction to data science syllabus
 
 
-## ipython notebooks
+## Colab ipython notebooks
 
 * [Notebook 1, some basic python and data input and munging](https://colab.research.google.com/drive/1oswpzvkRaphIkoTqXqa244kUWBSJfDw5)
 * [Notebook 2, simple classification and evaluation](https://colab.research.google.com/drive/1JzktE6vya812O6lbCy7rzrrt1YCAdIfE)
