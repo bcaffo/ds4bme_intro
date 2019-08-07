@@ -4,14 +4,9 @@
 ## ipython notebooks
 
 * [Notebook 1, some basic python and data input and munging](https://colab.research.google.com/drive/1oswpzvkRaphIkoTqXqa244kUWBSJfDw5)
-* [Notebook 2, simple classification and evaluation](https://github.com/bcaffo/ds4bme_intro/blob/master/lectures/lecture2.ipynb)
-* [Notebook 3, regression prediction](https://github.com/bcaffo/ds4bme_intro/blob/master/notebooks/notebook3.ipynb)
-* [Notebook 4, regression classification](https://github.com/bcaffo/ds4bme_intro/blob/master/notebooks/notebook4.ipynb)
-
-
-
-
-
+* [Notebook 2, simple classification and evaluation](https://colab.research.google.com/drive/1JzktE6vya812O6lbCy7rzrrt1YCAdIfE)
+* [Notebook 3, regression prediction](https://colab.research.google.com/drive/1rWDI6uNhLtwN8KPMPt5mhYaPqDixzWbQ)
+* [Notebook 4, regression classification](https://colab.research.google.com/drive/1Yc04O2KNHJ5GBFYE2Krt8cwJeNHwfOMb)
 
 
 ## Topics and rough organization of lectures
