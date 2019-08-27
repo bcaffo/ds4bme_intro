@@ -1,5 +1,12 @@
 # Introduction to data science syllabus
 
+Class times: MW 3:00PM - 4:15PM
+TA time: F 11:00AM - 11:50AM
+Class location: Homewood campus
+TA hour location: Homewood campus
+
+# Grading
+
 
 ## Colab ipython notebooks
 
