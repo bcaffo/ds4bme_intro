@@ -14,18 +14,6 @@
 
 ## Lectures
 
-0. Introduction to data science for BME
-    1. Course logistics
-    2. Introduction to classificiation
-        1. Classification with one continuous predictor and thresholding
-        2. Classification through the origin with one continuous predictor
-        3. Test and training sets.
-    3. Git and github
-    4. Python notebook 1
-1. Least squares and linear prediction
-    1. Linear regression
-    2. Regression with mu
-
 ## Topics and rough organization of lectures
 0. Introduction to data science for BME
     1. Git and github, version control
@@ -39,19 +27,19 @@
     1. Classification with one continuous predictor and thresholding
     2. Simple regression prediction through the origin
     3. Loss functions, squared error, cross entropy
-    4. Example with MRI cloud data : predicting Age from the HCP data and total brain volume
+    4. Example with voxel data
     5. Computational topics, loading a simple dataset into a python notebook and creating a simple prediction algorithm
 2. Linear separable models
     1. Least squares prediction in a linear model
     2. Binary least squares prediction with cross entropy error.
-    3. Example with MRI cloud data : predicting siamese networks with linear models
+    3. Example
     4. Computational topics, building a linear model in python
 3. Simple neural networks
     1. Correspondence between network diagrams and loss functions
     2. Example: fitting XOR with a neural network
     3. Example: linear regression as a one layer
     4. Example: binary logistic regression as a one layer NN
-    5. Example with MRI cloud data : siamese network prediction from the HCP data
+    5. Example with MRI cloud data 
     6. Computational topics: installing pytorch (or TF?), pip or conda, ...
 4. Deep neural networks
     1. Fitting and back propagation
