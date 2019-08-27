@@ -8,6 +8,23 @@
 * [Notebook 3, regression prediction](https://colab.research.google.com/drive/1rWDI6uNhLtwN8KPMPt5mhYaPqDixzWbQ)
 * [Notebook 4, regression classification](https://colab.research.google.com/drive/1Yc04O2KNHJ5GBFYE2Krt8cwJeNHwfOMb)
 
+## Hand written notes
+
+* [Directory of hand written notes](https://drive.google.com/drive/folders/1-rbuSa7FEPcrLfWr6eOxehlzaZOZ46fe?usp=sharing)
+
+## Lectures
+
+0. Introduction to data science for BME
+    1. Course logistics
+    2. Introduction to classificiation
+        1. Classification with one continuous predictor and thresholding
+        2. Classification through the origin with one continuous predictor
+        3. Test and training sets.
+    3. Git and github
+    4. Python notebook 1
+1. Least squares and linear prediction
+    1. Linear regression
+    2. Regression with mu
 
 ## Topics and rough organization of lectures
 0. Introduction to data science for BME
