@@ -4,9 +4,9 @@ Class times: MW 3:00PM - 4:15PM
 
 TA time: F 11:00AM - 11:50AM
 
-Class location: Homewood campus Krieger 205
+Class location: Krieger 205
 
-TA hour location: Homewood campus
+TA hour location: 
 
 # Grading
 
@@ -15,6 +15,11 @@ Quiz Wednesday afternoons
 2 projects, dates TBA
 
 Grade is average of project grade and quiz grades
+
+## Lab course
+
+The associated lab course is mandatory.
+
 
 ## Colab ipython notebooks
 
