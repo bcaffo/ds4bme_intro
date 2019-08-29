@@ -38,8 +38,8 @@ The associated lab course is mandatory.
 0. Introduction to data science for BME
     1. [Git and github, version control](https://github.com/seankross/the-unix-workbench/blob/master/docs/06-Git-and-GitHub.md)
     2. [Markdown](https://www.markdownguide.org/basic-syntax/)
-    3. [Exploratory data analysis](https://github.com/bcaffo/ds4bme/blob/master/eda.md)
-    4. [Reproducible research, replication crisis](https://github.com/bcaffo/ds4bme/blob/master/reproducible.md)
+    3. Exploratory data analysis
+    4. [Reproducible research, replication crisis, some relevant links](https://github.com/bcaffo/ds4bme/blob/master/reproducible.md)
     5. Computational topics: python and frameworks.
     6. Example: reading in some MRI Cloud data
     7. Grading and course structure; github classroom.    
