@@ -1,0 +1,61 @@
+"","Group","ID","Phase","Treatment","Condition","Naming_80_trained","PNT_untrained","Time"
+"1","Anode","DPE0058","Phase 1","Pre Tx","tdcs",23,98,0
+"2","Anode","DPE0058","Phase 1","Post Tx","tdcs",49,115,1
+"3","Anode","DPE0058","Phase 2","Pre Tx","sham",37,101,0
+"4","Anode","DPE0058","Phase 2","Post Tx","sham",42,91,1
+"5","Anode","LWI1681","Phase 1","Pre Tx","tdcs",0,9,0
+"6","Anode","LWI1681","Phase 1","Post Tx","tdcs",7,20,1
+"7","Anode","LWI1681","Phase 2","Pre Tx","sham",3,1,0
+"8","Anode","LWI1681","Phase 2","Post Tx","sham",11,10,1
+"9","Anode","BAE4757","Phase 1","Pre Tx","sham",10,82,0
+"10","Anode","BAE4757","Phase 1","Post Tx","sham",29,73,1
+"11","Anode","BAE4757","Phase 2","Pre Tx","tdcs",25,92,0
+"12","Anode","BAE4757","Phase 2","Post Tx","tdcs",40,96,1
+"13","Anode","ASS7422","Phase 1","Pre Tx","sham",28,132,0
+"14","Anode","ASS7422","Phase 1","Post Tx","sham",68,134,1
+"15","Anode","ASS7422","Phase 2","Pre Tx","tdcs",56,140,0
+"16","Anode","ASS7422","Phase 2","Post Tx","tdcs",74,153,1
+"17","Anode","AWS3936","Phase 1","Pre Tx","sham",0,0,0
+"18","Anode","AWS3936","Phase 1","Post Tx","sham",0,0,1
+"19","Anode","AWS3936","Phase 2","Pre Tx","tdcs",0,0,0
+"20","Anode","AWS3936","Phase 2","Post Tx","tdcs",0,0,1
+"21","Anode","CDN6998","Phase 1","Pre Tx","tdcs",10,61,0
+"22","Anode","CDN6998","Phase 1","Post Tx","tdcs",21,49,1
+"23","Anode","CDN6998","Phase 2","Pre Tx","sham",15,63,0
+"24","Anode","CDN6998","Phase 2","Post Tx","sham",25,82,1
+"25","Anode","JZZ4187","Phase 1","Pre Tx","tdcs",0,2,0
+"26","Anode","JZZ4187","Phase 1","Post Tx","tdcs",0,2,1
+"27","Anode","JZZ4187","Phase 2","Pre Tx","sham",0,5,0
+"28","Anode","JZZ4187","Phase 2","Post Tx","sham",1,3,1
+"29","Anode","SCN9747","Phase 1","Pre Tx","sham",0,4,0
+"30","Anode","SCN9747","Phase 1","Post Tx","sham",1,5,1
+"31","Anode","SCN9747","Phase 2","Pre Tx","tdcs",2,6,0
+"32","Anode","SCN9747","Phase 2","Post Tx","tdcs",3,10,1
+"33","Cathode ","DSS6551","Phase 1","Pre Tx","tdcs",3,6,0
+"34","Cathode ","DSS6551","Phase 1","Post Tx","tdcs",9,15,1
+"35","Cathode ","DSS6551","Phase 2","Pre Tx","sham",1,16,0
+"36","Cathode ","DSS6551","Phase 2","Post Tx","sham",7,13,1
+"37","Cathode ","KSR4175","Phase 1","Pre Tx","tdcs",16,82,0
+"38","Cathode ","KSR4175","Phase 1","Post Tx","tdcs",53,112,1
+"39","Cathode ","KSR4175","Phase 2","Pre Tx","sham",34,88,0
+"40","Cathode ","KSR4175","Phase 2","Post Tx","sham",52,99,1
+"41","Cathode ","DPE4872","Phase 1","Pre Tx","sham",24,91,0
+"42","Cathode ","DPE4872","Phase 1","Post Tx","sham",38,92,1
+"43","Cathode ","DPE4872","Phase 2","Pre Tx","tdcs",32,94,0
+"44","Cathode ","DPE4872","Phase 2","Post Tx","tdcs",43,102,1
+"45","Cathode ","CLO6998","Phase 1","Pre Tx","sham",40,112,0
+"46","Cathode ","CLO6998","Phase 1","Post Tx","sham",40,113,1
+"47","Cathode ","CLO6998","Phase 2","Pre Tx","tdcs",34,117,0
+"48","Cathode ","CLO6998","Phase 2","Post Tx","tdcs",34,109,1
+"49","Cathode ","PBA7313","Phase 1","Pre Tx","tdcs",0,0,0
+"50","Cathode ","PBA7313","Phase 1","Post Tx","tdcs",0,0,1
+"51","Cathode ","PBA7313","Phase 2","Pre Tx","sham",0,0,0
+"52","Cathode ","PBA7313","Phase 2","Post Tx","sham",0,0,1
+"53","Cathode ","VBN8310","Phase 1","Pre Tx","tdcs",38,103,0
+"54","Cathode ","VBN8310","Phase 1","Post Tx","tdcs",44,120,1
+"55","Cathode ","VBN8310","Phase 2","Pre Tx","sham",33,121,0
+"56","Cathode ","VBN8310","Phase 2","Post Tx","sham",29,96,1
+"57","Cathode ","WST9182","Phase 1","Pre Tx","tdcs",21,85,0
+"58","Cathode ","WST9182","Phase 1","Post Tx","tdcs",40,98,1
+"59","Cathode ","WST9182","Phase 2","Pre Tx","sham",32,97,0
+"60","Cathode ","WST9182","Phase 2","Post Tx","sham",50,107,1
