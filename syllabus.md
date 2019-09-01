@@ -8,6 +8,9 @@ Class location: Krieger 205
 
 TA hour location: 
 
+Book: [Goodfellow, Benjio and Courville, Deep Learning](https://www.deeplearningbook.org/) 
+
+
 # Grading
 
 Quiz Wednesday afternoons
