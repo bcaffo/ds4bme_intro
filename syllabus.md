@@ -6,6 +6,8 @@ TA time: F 11:00AM - 11:50AM
 
 Class location: Krieger 205
 
+Instructor office hour. MW 2:00PM - 3:00PM Clark 314B.
+
 TA hour location: 
 
 Book: [Goodfellow, Benjio and Courville, Deep Learning](https://www.deeplearningbook.org/) 
