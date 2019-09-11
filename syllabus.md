@@ -35,7 +35,7 @@ The associated lab course is mandatory.
 
 ## Hand written notes
 
-* [Directory of hand written notes](https://drive.google.com/drive/folders/1-rbuSa7FEPcrLfWr6eOxehlzaZOZ46fe?usp=sharing)
+* [Directory of hand written notes](https://drive.google.com/drive/folders/1aGS6NeEGFOnJKUdv0p6ASFIrOfQPn22V?usp=sharing)
 
 ## Lectures
 
