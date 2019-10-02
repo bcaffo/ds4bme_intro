@@ -18,7 +18,7 @@ Below is the rubric that we will use in evaluating the project.
 
 ## Interpretation
 1. Did the student summarize and interpret their findings in non tehcnical terms?
-2. DId the student summarizer perrormance metrics and make suggestions on improving model performance in the terms of other models to fit or other data to collect?
+2. DId the student summarize performance metrics and make suggestions on improving model performance in the terms of other models to fit or other data to collect?
 
 ## Structure
 1. Is the project an ipython notebook?
