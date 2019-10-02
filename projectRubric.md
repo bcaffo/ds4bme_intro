@@ -1,6 +1,9 @@
 # Project rubric
 
-Below is the rubric that we will use in evaluating the project.
+Below is the rubric that we will use in evaluating the project. Please submit at least two files: 
+
+1. A jupyter notebook with your work.
+2. A pdf printed out report.
 
 ## Problem
 1. Did the student describe the problem that they are trying to address?
@@ -21,5 +24,5 @@ Below is the rubric that we will use in evaluating the project.
 2. DId the student summarize performance metrics and make suggestions on improving model performance in the terms of other models to fit or other data to collect?
 
 ## Structure
-1. Is the project an ipython notebook?
-2. Is the total project less than 2 pages if printed out as a pdf?
+1. Did the student submit an ipython notebook?
+2. Is the written component of the project less than 2 pages if printed out as a pdf?
