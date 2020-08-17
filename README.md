@@ -18,3 +18,35 @@ This class will be delivered via recorded lectures. Instructor office hours will
 * Weekly projects to be handed in over github classroom
 * This github course site
 
+## Class instruction schedule
+
+'''
+* Date , Instr, Topic, Due
+* 8/31 , Brian,
+* 9/2  , Brian,
+* 9/7  - labor day holiday
+* 9/9  , Brian, 
+* 9/14 , Brian,
+* 9/16 , Brian, 
+* 9/21 , Brian,
+* 9/23 , Brian,
+* 10/5 , Brian,
+* 10/7 , Brian,
+* 10/12, Brian,
+* 10/19, Brian,
+* 10/21, Brian,
+* 10/26, Rai  ,
+* 10/28, Rai  ,
+* 11/2 , Rai  ,
+* 11/4 , Rai  ,
+* 11/9 , Rai  ,
+* 11/11, Rai  , 
+* 11/16, Rai  ,
+* 11/18, Rai  ,
+* 11/23 Thanksgiving break
+* 11/25 Thanksgiving break
+* 11/30, Rai  ,
+* 12/2 , Rai  ,
+* 12/7 , Rai  ,
+* 12/9 , Rai  ,
+'''
