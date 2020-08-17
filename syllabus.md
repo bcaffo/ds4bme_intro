@@ -1,30 +1,26 @@
 # Introduction to data science syllabus
 
-Class times: MW 3:00PM - 4:15PM
+* Instructors: Brian Caffo, Rai Winslow
+* Meeting time: Monday / Wednesday 3:00PM - 4:15PM (see below)
+* Office hours
+  * TA office hours Friday 11:00AM - 11:50AM (see
+  * Instructor office hours given over slack
+* Labs
+* Class location : online, asyncrhonous
 
-TA time: F 11:00AM - 11:50AM
+Books: 
 
-Class location: Krieger 205
-
-Instructor office hour. MW 2:00PM - 3:00PM Clark 314B.
-
-TA hour location: 
-
-Book: [Goodfellow, Benjio and Courville, Deep Learning](https://www.deeplearningbook.org/) 
+* [Regression Models](https://leanpub.com/regmods)
+* [Goodfellow, Benjio and Courville, Deep Learning](https://www.deeplearningbook.org/) 
 
 
 # Grading
 
-Quiz Wednesday afternoons
-
-2 projects, dates TBA
-
-Grade is average of project grade and quiz grades
+Weekly projects counted equally.
 
 ## Lab course
 
 The associated lab course is mandatory.
-
 
 ## Colab ipython notebooks
 
@@ -37,7 +33,63 @@ The associated lab course is mandatory.
 
 * [Directory of hand written notes](https://drive.google.com/drive/folders/1aGS6NeEGFOnJKUdv0p6ASFIrOfQPn22V?usp=sharing)
 
+
+## Class delivery
+This class will be delivered via recorded lectures. Instructor office
+hours will be held during a subset of course times, as well as others
+to accomodate foreign students in different time zones. Course
+communication will be held over slack. Invites to the slack group will
+be sent over email.
+
+* Recorded lectures (links will be posted here as well as the slack website)
+* Slack discussions
+* Live instructor office hours
+* Live TA office hours
+* Weekly projects to be handed in over github classroom
+* This github course site
+
 ## Lectures
+
+## Class intstruction schedule and due dates
+
+```
+* Date , Instr, Due
+* 8/31 , Brian, 
+* 9/2  , Brian,
+* 9/7  , Off  ,  
+* 9/9  , Brian, Project 1 (note delayed due date)
+* 9/14 , Brian, Project 2
+* 9/16 , Brian, 
+* 9/21 , Brian, Project 3
+* 9/23 , Brian,
+* 10/5 , Brian, Project 4
+* 10/7 , Brian,
+* 10/12, Brian, Project 5
+* 10/19, Brian,
+* 10/21, Brian, Project 6
+* 10/26, Rai  ,
+* 10/28, Rai  ,
+* 11/2 , Rai  ,
+* 11/4 , Rai  ,
+* 11/9 , Rai  ,
+* 11/11, Rai  , 
+* 11/16, Rai  ,
+* 11/18, Rai  ,
+* 11/23, Off  ,
+* 11/25, Off  ,
+* 11/30, Rai  ,
+* 12/2 , Rai  ,
+* 12/7 , Rai  ,
+* 12/9 , Rai  ,
+```
+
+## Software / websites
+* [Google colab](https://colab.research.google.com/notebooks/intro.ipynb) we'll use colab to demonstrate some basics
+* [Azure notebooks](https://notebooks.azure.com/) we'll use this to demonstrate ipython notebooks
+* [Anaconda](https://www.anaconda.com/) For installing python, spyder and ipython notebooks locally
+* [git](https://git-scm.com/) Comes with most unix-like systems pre installed. If using Windows, install git
+* [github](www.github.com)
+  
 
 ## Topics and rough organization of lectures
 0. Introduction to data science for BME
@@ -47,7 +99,7 @@ The associated lab course is mandatory.
     4. [Reproducible research, replication crisis, some relevant links](https://github.com/bcaffo/ds4bme/blob/master/reproducible.md)
     5. Computational topics: python and frameworks.
     6. Example: reading in some MRI Cloud data
-    7. Grading and course structure; github classroom.    
+    7. Grading and course structure; github classroom.
 1. Introduction to classification and prediction
     1. Classification with one continuous predictor and thresholding
     2. Simple regression prediction through the origin
