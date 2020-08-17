@@ -20,7 +20,7 @@ This class will be delivered via recorded lectures. Instructor office hours will
 
 ## Class instruction schedule
 
-'''
+```
 * Date , Instr, Topic, Due
 * 8/31 , Brian,
 * 9/2  , Brian,
@@ -49,4 +49,4 @@ This class will be delivered via recorded lectures. Instructor office hours will
 * 12/2 , Rai  ,
 * 12/7 , Rai  ,
 * 12/9 , Rai  ,
-'''
+```
