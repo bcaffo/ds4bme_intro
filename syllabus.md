@@ -14,7 +14,7 @@ Books:
 * [Goodfellow, Benjio and Courville, Deep Learning](https://www.deeplearningbook.org/) 
 
 # Projects 
-The projects are in an ipython notebook [here](https://github.com/bcaffo/ds4bme_intro/blob/master/notebooks/Homework.ipynb)
+The projects are in an ipython notebook [here](https://colab.research.google.com/drive/1uHsNQUcCzsGSjbNy2ypf1XqGceDzyFIN?usp=sharing)
 
 # Grading
 
@@ -33,8 +33,7 @@ The associated lab course is mandatory.
 
 ## Hand written notes
 
-* [Directory of hand written notes](https://drive.google.com/drive/folders/1aGS6NeEGFOnJKUdv0p6ASFIrOfQPn22V?usp=sharing)
-
+I'll put a link to handwritten notes from the lectures  here
 
 ## Class delivery
 This class will be delivered via recorded lectures. Instructor office
