@@ -92,9 +92,10 @@ be sent over email.
 * [github](www.github.com)
   
 
-## Topics and rough organization of lectures
+## Topi
 0. Introduction to data science for BME
-    1. [Git and github, version control](https://github.com/seankross/the-unix-workbench/blob/master/docs/06-Git-and-GitHub.md)
+    1. Git, Github
+    0. Google Colab
     2. [Markdown](https://www.markdownguide.org/basic-syntax/)
     3. Exploratory data analysis
     4. [Reproducible research, replication crisis, some relevant links](https://github.com/bcaffo/ds4bme/blob/master/reproducible.md)
