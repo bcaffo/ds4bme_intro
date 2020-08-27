@@ -13,6 +13,8 @@ Books:
 * [Regression Models](https://leanpub.com/regmods)
 * [Goodfellow, Benjio and Courville, Deep Learning](https://www.deeplearningbook.org/) 
 
+# Projects 
+The projects are in an ipython notebook [here](https://github.com/bcaffo/ds4bme_intro/blob/master/notebooks/Homework.ipynb)
 
 # Grading
 
