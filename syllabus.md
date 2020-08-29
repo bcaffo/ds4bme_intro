@@ -69,18 +69,18 @@ be sent over email.
 * 10/19, Brian,
 * 10/21, Brian, Project 6
 * 10/26, Rai  ,
-* 10/28, Rai  ,
+* 10/28, Rai  , Project 7
 * 11/2 , Rai  ,
-* 11/4 , Rai  ,
+* 11/4 , Rai  , Project 8
 * 11/9 , Rai  ,
-* 11/11, Rai  , 
+* 11/11, Rai  , Project 9
 * 11/16, Rai  ,
-* 11/18, Rai  ,
+* 11/18, Rai  , Project 10
 * 11/23, Off  ,
-* 11/25, Off  ,
-* 11/30, Rai  ,
+* 11/25, Off  , 
+* 11/30, Rai  , 
 * 12/2 , Rai  ,
-* 12/7 , Rai  ,
+* 12/7 , Rai  , Project 11
 * 12/9 , Rai  ,
 ```
 
