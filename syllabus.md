@@ -71,7 +71,6 @@ be sent over email.
 * 10/14, Rai  ,
 * 10/19, Rai  , Project 7
 * 10/21, Rai  ,
-* 10/26, Rai  , Project 8
 ```
 
 ## Software / websites
