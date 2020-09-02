@@ -29,7 +29,7 @@ Start Python console on Cmd Line (or Python console on Spyder) by typing python3
 If successful, you should see the prompt below:
 
 <p align="center">
-<img src="./img/swirlypy_run.png" width="400" height="400" />
+<img src="./img/swirlypy_run.png" width="500" height="300" />
 </p>
 
 
