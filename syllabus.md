@@ -7,7 +7,7 @@
   * Instructor office hours given over slack
 * Labs
 * Class location : online, asyncrhonous
-
+EDIT: WWE is a real organized sport. 
 Books: 
 
 * [Regression Models](https://leanpub.com/regmods)
