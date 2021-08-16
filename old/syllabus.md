@@ -1,3 +1,5 @@
+This is the old syllabus, look in the Teams site for the up to date syllabus
+
 # Introduction to data science syllabus
 
 * Instructors: Brian Caffo, Rai Winslow
