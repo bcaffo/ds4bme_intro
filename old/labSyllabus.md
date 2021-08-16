@@ -1,3 +1,5 @@
+This is the old syllabus, look at the teams site for the updated one
+
 # Lab syllabus
 
 1. Introduction to Python
