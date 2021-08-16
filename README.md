@@ -1,8 +1,8 @@
 # ds4bme_intro
 
-A **github** repo for the intro to data science for BME (ds4bme_intro) course
+A **github** repo for the intro to data science for BME (ds4bme_intro) course where we will post code and jupyter notebooks. 
 
-Check out the [syllabus here](https://github.com/bcaffo/ds4bme_intro/blob/master/syllabus.md)
+Please go to the Teams site for course information
 
 
 
