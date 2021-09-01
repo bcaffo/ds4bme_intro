@@ -42,3 +42,8 @@
 + Lily Zhu 
 + Ryan Zhao 
 
+* Notes I'm following
++ [[https://bcaffo.github.io/ds4bio_book/_build/html/05-functions.html][Book]]
++ [[https://github.com/bcaffo/ds4bio_book][github repo for the book]]
++ [[https://github.com/bcaffo/ds4bme_intro][Course github site]]
+
