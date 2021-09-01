@@ -47,3 +47,19 @@
 + [[https://github.com/bcaffo/ds4bio_book][github repo for the book]]
 + [[https://github.com/bcaffo/ds4bme_intro][Course github site]]
 
+* Things to cover on github
++ Your worst enemy
++ Version control
++ Github basics
++ Differences with github classroom
+
+* Steps to cover
++ Creating a repository
++ Cloning a repository
++ Forking a repository
++ Adding files
++ Deleting/moving/renaming files
++ GH pages
+
+* Getting started with programming with data
++ Reading in data
