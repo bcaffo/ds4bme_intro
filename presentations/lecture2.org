@@ -1,0 +1,44 @@
+#+Title: DS4BME 2021 Lecture 2
+#+Author: Brian Caffo
+#+EPRESENT_FRAME_LEVEL: 1
+
+* Reminders
++ Get on the teams site!
++ First project posted
++ Take the quiz with your name and github *username*
++ Watch the first video if you missed the first class
+
+* First project
++ Reminder to go through the first project
++ Due a week from Thursday
++ No class on Monday
+
+* TA sessions and office hour
++ 11 - 12 to 1 - 4 on Fridays
++ Go to the Office hours teams channel and click video link
++ Instructor office hour 12 - 1 on Friday
++ Also, by appointment
+
+* TAs
++ Chunming Gu (Lead TA) 
++ Yuta Kobayashi 
++ Marc Di Meo 
++ Dennis Gong 
++ Cassandra Parent  
+
+* TAs lab session
++ Kalen Clifton (Lead TA)
++ Ranjani Ramasubramanian
++ Kevin Rao 
++ Yuan Zhou
+
+* Thank you to the graders
++ Samantha Weed 
++ Selena Kim 
++ Samantha “Sam” Tam
++ Sundari Parise 
++ David Wang 
++ Min Joo 
++ Lily Zhu 
++ Ryan Zhao 
+

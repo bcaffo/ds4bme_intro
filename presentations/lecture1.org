@@ -1,0 +1,61 @@
+#+Title: DS4BME 2021 Lecture 1
+#+Author: Brian Caffo
+#+EPRESENT_FRAME_LEVEL: 1
+
+* Welcome
+** Instructors
+*** Main class
+- Brian Caffo
+- Joseph Greenstein
+*** Lab
+- Kwame Kutten
+
+* Important
+Get on the Teams site:
+- Most important information will be given out over the General channel
+- TA and Instructor office hours will be done on teams
+  - Go to the Office Hour channel and click on the video link
+- Main lectures given over zoom. Zoom link for Brian’s lectures will be the same
+  - Under General then Files you will find the course materials
+
+* TAs
+- We’re still adding TAs and have not met yet, so we’ll introduce all of the TAs at the next meeting
+TAs will assist with grading and run the Friday office hours
+
+* Software to install / try
+- Google colab (cloud)
+- Repl.it (cloud)
+- Anaconda (local)
+- Git (local)
+- Github (cloud)
+- Github desktop software (local)
+- VS code (local)
+
+* Projects
+- Equally weighted projects, one per week
+- Submitted via github classroom
+- Note difference between github and github classroom
+- Projects due Mondays at 5, unless Monday is a holiday then it wil be Tuesday at 5
+- First project being written, it will only take a few minutes
+
+* Grading
+- Equally weighted projects
+- Standard grading cutoffs
+- Plus grades given for exceptional performance
+
+* Syllabus / curriculum
+- Under the channel General, then Files, then Class Materials
+- Reminder to go through the syllabus
+
+* Software
+- Start to cover git, github, github classroom
+- Markdown
+- Google colab
+
+* Code of conduct in the class
+- Be nice! 
+- Be charitable about mistakes ...
+- Questions to the Teams site
+- Instructor / TA communication to the Teams site (via chat)
+- Do you own work, but feel free to ask questions, public on the Teams site better
+- Everything that happens on Teams, stays on Teams (don't repost elsewhere)
